@@ -1,14 +1,13 @@
 { "name": "follow"
-, "version": "0.12.2"
-, "author": { "name": "Jason Smith"
-            , "email": "jhs@iriscouch.com" }
+, "version": "1.0.0"
+, "author": { "name": "Jason Smith", "email": "jason.h.smith@gmail.com" }
 , "contributors": [ "Jarrett Cruger <jcrugzz@gmail.com>" ]
 , "description": "Extremely robust, fault-tolerant CouchDB changes follower"
 , "license": "Apache-2.0"
 , "keywords": ["couchdb", "changes", "sleep", "sleepy"]
-, "homepage": "http://github.com/iriscouch/follow"
+, "homepage": "http://github.com/jhs/follow"
 , "repository": { "type": "git"
-                , "url": "git://github.com/iriscouch/follow" }
+                , "url": "git://github.com/jhs/follow" }
 , "engines": { "node": ">=0.8.0" }
 , "dependencies" : { "request" : "~2.55.0"
                    , "browser-request" : "~0.3.0"
