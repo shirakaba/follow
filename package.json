@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "browser-request": "~0.3.0",
-    "debug": "^2.1.0",
+    "debug": "^2.6.9",
     "request": "^2.83.0"
   },
   "devDependencies": {
